@@ -1,0 +1,225 @@
+    1  $ git config --global user.name " James Rhyne"
+    2  git config --global user.name " James Rhyne"
+    3  git config --global user.email " jamestrhyne@gmail.com"
+    4  ls -l ~
+    5  pwd
+    6  cd Documents
+    7  cd ..
+    8  man ls
+    9  mkdir man
+   10  man mkdir
+   11  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+   12  sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+   13  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+   14  man sudo
+   15  sudo man sudo
+   16  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+   17  sudoln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+   18  defaults write com.apple.finder AppleShowAllFiles YES
+   19  sudo apt-get update
+   20  sudo apt-get update
+   21  sudo apt-get upgrade
+   22  git
+   23  sudo git
+   24  man git
+   25  exit
+   26  sudo apt-get update
+   27  sumblime_text2
+   28  find sublime
+   29  man search
+   30  man find
+   31  git config --user.name "James Rhyne"
+   32  git config --global user.email "jamestrhyne@gmail.com"
+   33  git --version
+   34  git init my_first_repository
+   35  ls
+   36  cd my_first_repository
+   37  ls
+   38  ls -a
+   39  cd 
+   40  cd`
+   41  cd~
+   42  git status
+   43  .git git status
+   44  ls
+   45  man git
+   46  clear
+   47  wwpd
+   48  pwd
+   49  clear
+   50  pwd
+   51  clear
+   52  pwd
+   53  ls
+   54  cd documents
+   55  pwd
+   56  cd documents
+   57  ~
+   58  cd ~
+   59  s
+   60  clcear
+   61  clear
+   62  pwd
+   63  ls
+   64  cd documents
+   65  cd ~
+   66  pwd
+   67  clear
+   68  dcc
+   69  cd
+   70  cd 
+   71  cd documents
+   72  cs
+   73  cd
+   74  clear
+   75  s
+   76  pwd
+   77  cd /
+   78  pwd
+   79  ls
+   80  ls -t
+   81  ls -l
+   82  ls -t
+   83  ls -l
+   84  ls -lt
+   85  ls -r
+   86  ls -ltr
+   87  ls -r
+   88  ls -lr
+   89  ls -tr
+   90  ls -tl
+   91  ls -a
+   92  man ls
+   93  clear
+   94  man ls
+   95  ls -lt documents
+   96  ls -l /documents
+   97  cleat
+   98  clear
+   99  man
+  100  man ls
+  101  cd 
+  102  cd /tmp
+  103  mkdir my\ folder
+  104  ls
+  105  s
+  106  cd my folder
+  107  cd my\ folder
+  108  cd /tmp
+  109  cd my\ folder
+  110  mkdir my-folder
+  111  cd my\ FOLder
+  112  cd my\ Folder
+  113  CD my\ folder
+  114  cd ~
+  115  pwd
+  116  ls
+  117  ls -l
+  118  cd Documents
+  119  pwd
+  120  cs
+  121  cd
+  122  cd Music
+  123  pwd
+  124  cd Public
+  125  cd Public
+  126  cd punlic
+  127  pwd
+  128  cd Library
+  129  cd
+  130  cd Library
+  131  pwd
+  132  cd
+  133  cd documents
+  134  ..
+  135  cd ..
+  136  pwd
+  137  cd documents
+  138  pwd
+  139  cd ..
+  140  pwd
+  141  ls
+  142  cd documents
+  143  ls
+  144  ls -lT
+  145  ls -Ts
+  146  man ls
+  147  ls -lT
+  148  cd ..
+  149  pwd
+  150  clear
+  151  cd documents
+  152  ls -lT
+  153  cd ..
+  154  less ../
+  155  cd ../documents//../documents/../documents
+  156  pwd
+  157  cd ../..
+  158  pwd
+  159  cd ~
+  160  pwd
+  161  ../..
+  162  cd ../..
+  163  cd ~
+  164  cd documents
+  165  ls
+  166  cd ../git
+  167  clear
+  168  /home/docs
+  169  /home/users/james
+  170  ls
+  171  cd
+  172  cd documents
+  173  ../music
+  174  cd ../music
+  175  cd ../documents
+  176  cd ../Library/../Music/..
+  177  pwd
+  178  ls
+  179  cd my_first_repository/
+  180  mkdir Surprise!
+  181  cd surprise!
+  182  ../../
+  183  ../..
+  184  cd ../..
+  185  cd my_first_repository/Surprise!
+  186  ../../documents
+  187  ../../..documents
+  188  cd ../../documents
+  189  cd ..
+  190  clear
+  191  ls ~
+  192  cd ~/documents
+  193  pwd
+  194  cd
+  195  ls ~/music
+  196  ls -lT ~
+  197  cd documents
+  198  cd ~
+  199  cd documenta
+  200  clear
+  201  ls
+  202  cd my_first_repository/
+  203  cd Surprise!
+  204  cd ../..
+  205  cd my_first_repository/
+  206  cd .git
+  207  ls
+  208  ls -lt
+  209  ls .
+  210  cd ../..
+  211  clear
+  212  man man
+  213  history
+  214  clear
+  215  history 10
+  216  history | less
+  217  history | less
+  218  history | more
+  219  clear
+  220  history 10
+  221  history
+  222  clear
+  223  history | less
+  224  clear
+  225  history > my_history.txt
