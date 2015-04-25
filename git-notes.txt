@@ -1,0 +1,10 @@
+Adding text adding text adding text.
+
+This is essentailly the same material covered in the prework, but I definitely need the practice. Still using nano, need to figure why Sublime Text 2 isn't integrated or whatever into my terminal.
+
+So far, I've learned that git init initializes the git, git add moves them to the stage ( last chance to check before its permenanent! ) , then you commit the changes and they are added permenantely. 
+
+WOop Woop!
+
+
+
